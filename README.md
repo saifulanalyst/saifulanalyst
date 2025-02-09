@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saiful Hasan, public health data enthusiast. Studied Public Health Data Science at Temple University. My current location Noerh Philadelphia, PA, USA</h2>
+<h2 align="left">Hi 👋! My name is Saiful Hasan, public health data enthusiast. Studied Public Health Data Science at Temple University. My current location Norh Philadelphia, PA, USA</h2>
 
 ###
 
