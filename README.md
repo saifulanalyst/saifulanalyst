@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saiful Hasan and I'm a public health data enthusiast, from Philadelphia, PA, USA</h2>
+<h2 align="left">Hi 👋! My name is Saiful Hasan, public health data enthusiast, from Philadelphia, PA, USA</h2>
 
 ###
 
